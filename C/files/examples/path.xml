@@ -1,0 +1,9 @@
+<svg viewport="0 0 100 100">
+  <draw
+    fill="#ff0000ff"
+    outline="#0000ffff"
+    translate="0 0"
+    rotate="X"
+    data="M 0 0 L 1 1 H 2 V 2 C 1 2 3 4 5 6 S 1 2 3 4 Q 1 2 3 4 T 1 2 Z"
+  />
+</svg>

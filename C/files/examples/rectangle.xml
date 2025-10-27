@@ -1,0 +1,12 @@
+<svg viewport="0 0 100 100">
+  <rectangle
+    fill="#ff0000ff"
+    outline="#0000ffff"
+    translate="0 0"
+    rotate="X"
+    x="25"
+    y="25"
+    width="40"
+    height="30"
+  />
+</svg>

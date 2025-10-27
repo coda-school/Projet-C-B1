@@ -1,0 +1,164 @@
+<svg
+    viewport="0 0 10 10">
+    <group
+        fill="#ff0000ff"
+        outline="#ff0000ff"
+        translate="0 0"
+        rotate="X"
+    >
+        <ellipse
+            fill="#ff0000ff"
+            outline="#ff0000ff"
+            translate="0 0"
+            rotate="X"
+            x="25"
+            y="25"
+            width="30"
+            height="40"
+        />
+        <rectangle
+            fill="#ff0000ff"
+            outline="#ff0000ff"
+            translate="0 0"
+            rotate="X"
+            x="25"
+            y="25"
+            width="40"
+            height="30"
+        />
+        <group
+            fill="#ff0000ff"
+            outline="#ff0000ff"
+            translate="0 0"
+            rotate="X"
+        >
+            <ellipse
+                fill="#ff0000ff"
+                outline="#ff0000ff"
+                translate="0 0"
+                rotate="X"
+                x="25"
+                y="25"
+                width="30"
+                height="40"
+            />
+            <rectangle
+                fill="#ff0000ff"
+                outline="#ff0000ff"
+                translate="0 0"
+                rotate="X"
+                x="25"
+                y="25"
+                width="40"
+                height="30"
+            />
+            <line
+                fill="#ff0000ff"
+                outline="#ff0000ff"
+                translate="0 0"
+                rotate="X"
+                start="0 0"
+                end="10 10"
+            />
+            <multiline
+                fill="#ff0000ff"
+                outline="#ff0000ff"
+                translate="0 0"
+                rotate="X"
+                points="0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 10"
+            />
+            <polygon
+                fill="#ff0000ff"
+                outline="#ff0000ff"
+                translate="0 0"
+                rotate="X"
+                points="0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 10"
+            />
+            <draw
+                fill="#ff0000ff"
+                outline="#ff0000ff"
+                translate="0 0"
+                rotate="X"
+                data="M 0 0 L 1 1 H 2 V 2 C 1 2 3 4 5 6 S 1 2 3 4 Q 1 2 3 4 T 1 2 Z"
+            />
+        <group/>
+        <line
+            fill="#ff0000ff"
+            outline="#ff0000ff"
+            translate="0 0"
+            rotate="X"
+            start="0 0"
+            end="10 10"
+        />
+        <multiline
+            fill="#ff0000ff"
+            outline="#ff0000ff"
+            translate="0 0"
+            rotate="X"
+            points="0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 10"
+        />
+        <polygon
+            fill="#ff0000ff"
+            outline="#ff0000ff"
+            translate="0 0"
+            rotate="X"
+            points="0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 10"
+        />
+        <draw
+            fill="#ff0000ff"
+            outline="#ff0000ff"
+            translate="0 0"
+            rotate="X"
+            data="M 0 0 L 1 1 H 2 V 2 C 1 2 3 4 5 6 S 1 2 3 4 Q 1 2 3 4 T 1 2 Z"
+        />
+    <group/>
+    <ellipse
+        fill="#ff0000ff"
+        outline="#ff0000ff"
+        translate="0 0"
+        rotate="X"
+        x="25"
+        y="25"
+        width="30"
+        height="40"
+    />
+    <rectangle
+        fill="#ff0000ff"
+        outline="#ff0000ff"
+        translate="0 0"
+        rotate="X"
+        x="25"
+        y="25"
+        width="40"
+        height="30"
+    />
+    <line
+        fill="#ff0000ff"
+        outline="#ff0000ff"
+        translate="0 0"
+        rotate="X"
+        start="0 0"
+        end="10 10"
+    />
+    <multiline
+        fill="#ff0000ff"
+        outline="#ff0000ff"
+        translate="0 0"
+        rotate="X"
+        points="0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 10"
+    />
+    <polygon
+        fill="#ff0000ff"
+        outline="#ff0000ff"
+        translate="0 0"
+        rotate="X"
+        points="0 0 1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 10 10"
+    />
+    <draw
+        fill="#ff0000ff"
+        outline="#ff0000ff"
+        translate="0 0"
+        rotate="X"
+        data="M 0 0 L 1 1 H 2 V 2 C 1 2 3 4 5 6 S 1 2 3 4 Q 1 2 3 4 T 1 2 Z"
+    />
+</svg>

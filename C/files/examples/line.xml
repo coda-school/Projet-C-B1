@@ -1,0 +1,10 @@
+<svg viewport="0 0 100 100">
+  <line
+    fill="#ff0000ff"
+    outline="#0000ffff"
+    translate="0 0"
+    rotate="990"
+    start="0 0"
+    end="10 10"
+  />
+</svg>

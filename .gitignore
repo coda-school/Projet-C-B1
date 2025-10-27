@@ -1,0 +1,10 @@
+/bin
+/out
+/target
+
+/.idea
+/.vscode
+/.vs
+
+*.o
+*.exe
